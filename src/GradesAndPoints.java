@@ -25,5 +25,6 @@ public class GradesAndPoints {
             System.out.print("Failed ");
         }
         System.out.print("Grade: "+ grade);
+        
     }
 }
